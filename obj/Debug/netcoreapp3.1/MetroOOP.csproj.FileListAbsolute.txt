@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\MetroOOP\MetroOOP\obj\Debug\netcoreapp3.1\MetroOOP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MetroOOP\MetroOOP\obj\Debug\netcoreapp3.1\MetroOOP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MetroOOP\MetroOOP\obj\Debug\netcoreapp3.1\MetroOOP.AssemblyInfo.cs
+C:\Users\User\source\repos\MetroOOP\MetroOOP\obj\Debug\netcoreapp3.1\MetroOOP.csproj.CoreCompileInputs.cache
